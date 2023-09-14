@@ -1,0 +1,13 @@
+class Main 
+{
+    public static void main(String[] args)
+    {
+        String first="JAVA";
+        String second="PYTHON";
+        String third="javascript";
+        String Forth="hello";
+        System.out.println(first);
+        System.out.println(second);
+        System.out.println(third);
+    }
+}
