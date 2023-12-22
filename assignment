@@ -1,0 +1,22 @@
+                           JAVA Assignment1
+public class PrimitiveTypesExample {
+    public static void main(String[] args) {
+        // Integer
+        int intValue = 42;
+
+        // Double
+        double doubleValue = 3.14;
+
+        // Char
+        char charValue = 'A';
+
+        // Boolean
+        boolean booleanValue = true;
+
+        // Print values
+        System.out.println("Integer value: " + intValue);
+        System.out.println("Double value: " + doubleValue);
+        System.out.println("Char value: " + charValue);
+        System.out.println("Boolean value: " + booleanValue);
+    }
+}
